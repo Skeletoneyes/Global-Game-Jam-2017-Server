@@ -1,0 +1,60 @@
+h1 {
+    font-size: 5em;
+	margin-top: 20px;
+	color: gray;
+	text-align: center;
+	vertical-align: middle;
+	font-weight:bold;
+	margin-bottom: 25px;
+}
+
+h2 {
+    font-size: 2em;
+	color: blue;
+	text-align: center;
+	vertical-align: middle;
+	font-weight:bold;
+	height: 20px;
+}
+
+.sliderLabel {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#powerSlider {
+	width: 90%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 20px;
+}
+
+#slider {
+    margin: 10px;
+	margin-bottom: 20px;
+}
+.ui-slider-horizontal {
+    height: 30px;
+}
+.ui-slider .ui-slider-handle {
+    height: 40px;
+    width: 40px;
+    padding-left: 5px;
+}
+#slider {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rs-control .rs-range-color {
+    background-color: #ffffff;
+}
+.rs-control .rs-path-color {
+    background-color: #ffffff;
+}
+.rs-control .rs-handle {
+    background-color: #838383;
+}
+.rs-control .rs-bg-color {
+    background-color: white;
+}

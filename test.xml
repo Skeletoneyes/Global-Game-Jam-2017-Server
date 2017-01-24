@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TutorialDataController xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <m_tutorialData>
+    <Monster m_id="0" m_name="Pipe Cutting" />
+    <Monster m_id="1" m_name="Cut Grooving" />
+  </m_tutorialData>
+</TutorialDataController>
